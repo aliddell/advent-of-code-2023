@@ -1,0 +1,4 @@
+name = "aoc23"
+uuid = "5ddc1f7b-8ec0-420a-92f5-1865d9cb9b5c"
+authors = ["Alan Liddell <alan.c.liddell@gmail.com>"]
+version = "0.1.0"
