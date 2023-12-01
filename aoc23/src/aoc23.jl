@@ -1,5 +1,5 @@
 module aoc23
 
-greet() = print("Hello World!")
+include("day01/day01.jl")
 
 end # module aoc23
